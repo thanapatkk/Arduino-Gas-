@@ -13,3 +13,13 @@
 - แสดงค่าแก๊สแบบเรียลไทม์
 - แจ้งเตือนเมื่อเกิน Threshold
 - ส่งข้อความพร้อมวันเวลาเข้า LINE
+
+## การต่อวงจร (Wiring)
+
+- Gas Sensor (AO) → GPIO 34  
+- LED → GPIO 26 (ผ่าน R 220Ω)  
+- Buzzer → GPIO 25  
+- LCD I2C SDA → GPIO 21  
+- LCD I2C SCL → GPIO 22  
+- VCC → 5V  
+- GND → GND
