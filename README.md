@@ -1,7 +1,7 @@
 # Gas Leak Detection System
 
 โปรเจกต์ตรวจจับแก๊สรั่วด้วย ESP32  
-แจ้งเตือนผ่าน LINE Notify แบบเรียลไทม์
+แจ้งเตือนผ่าน LINE Massage Api แบบเรียลไทม์
 
 ## อุปกรณ์
 - ESP32
