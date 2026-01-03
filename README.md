@@ -23,4 +23,5 @@
 - แสดงค่าแก๊สแบบเรียลไทม์
 - แจ้งเตือนเมื่อเกิน Threshold
 - ส่งข้อความพร้อมวันเวลาเข้า LINE
+
 ![IMG_6742](https://github.com/user-attachments/assets/9c543670-1c27-4b9f-a585-014ba8747a3e)
