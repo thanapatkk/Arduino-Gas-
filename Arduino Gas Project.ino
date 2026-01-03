@@ -11,12 +11,12 @@
 LiquidCrystal_I2C lcd(0x27,16,2);
 
 // ---- WiFi ----
-const char* ssid = "papimon1649";        
-const char* password = "Fon@6587";    
+const char* ssid = "username";        
+const char* password = "password";    
 
 // ---- LINE Messaging API ----
-const String CHANNEL_ACCESS_TOKEN = "Hfe+RatUI340xxDD/opazZkO2I57lIwGpQO5wr72fIXrSk0HXHd6556d9GdohzTefwi/CyP9DcH1fa063Thza6FDMJLy6fRHqeodnwJZr4xtiXgV24c6U6eUv+zwO4z+EMe8aAf/942ps948BmpfLQdB04t89/1O/w1cDnyilFU=";
-const String LINE_TO_ID = "Cdd96c8ada67f8eadefbd6dd327001251";
+const String CHANNEL_ACCESS_TOKEN = "--";
+const String LINE_TO_ID = "--";
 
 int baseline = 0;
 int threshold = 0;
